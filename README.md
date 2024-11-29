@@ -10,6 +10,7 @@ A deno program to convert the [TOSEC](https://archive.org/details/zx_spectrum_to
 
 ## Running The Script
 
+- Install [Deno](https://docs.deno.com/runtime/) if you haven't already
 - Clone this repo
 - Download the latest from [TOSEC](https://archive.org/details/zx_spectrum_tosec_set_september_2023) [Games.zip](https://archive.org/download/zx_spectrum_tosec_set_september_2023/Games.zip) and unzip it into the repo folder, so you should have a folder called "Games".
 - Run `deno task dev`
